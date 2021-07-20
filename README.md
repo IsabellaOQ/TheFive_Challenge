@@ -1,6 +1,6 @@
 # The Five - Bootcamps
 
-Aplicativo para visualizar Bootcamps
+Aplicativo para cadastro, visualização ou inscrição em Bootcamps.
 
 <div>
 <img src="fotos/Foto1.jpeg" width="250">
