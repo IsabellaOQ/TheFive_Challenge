@@ -1,6 +1,6 @@
 # ps_thefive
 
-Um aplicativo para visualizar bootcamps
+Aplicativo para visualizar Bootcamps
 
 <div>
 <img src="fotos/Foto1.jpeg" width="250">
